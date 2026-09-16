@@ -40,6 +40,7 @@ Após receber as informações, o programa classifica o consumo como:
 
 ```bash
 python app.py
+```
 
 🎯 Objetivo
 
