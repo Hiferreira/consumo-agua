@@ -40,3 +40,11 @@ Após receber as informações, o programa classifica o consumo como:
 
 ```bash
 python app.py
+
+🎯 Objetivo
+
+O projeto busca aplicar estruturas condicionais em Python para resolver um problema relacionado ao consumo consciente de água, utilizando regras diferentes de acordo com o perfil do imóvel.
+
+👩‍💻 Autora
+
+Rayane Ferreira
